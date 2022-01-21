@@ -6,4 +6,6 @@ Repositorio prueba
 
 Ejercicios de git
 
- 
+![](C:\Users\miche\Pictures\gitlog.png)
+
+![](C:\Users\miche\Pictures\network.png) 
